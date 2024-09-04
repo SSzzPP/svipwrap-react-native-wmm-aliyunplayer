@@ -9,6 +9,12 @@ buildscript {
   }
 }
 
+allprojects {
+  repositories {
+    maven { url "https://maven.aliyun.com/repository/releases" }
+  }
+}
+
 def isNewArchitectureEnabled() {
   return rootProject.hasProperty("newArchEnabled") && rootProject.getProperty("newArchEnabled") == "true"
 }
