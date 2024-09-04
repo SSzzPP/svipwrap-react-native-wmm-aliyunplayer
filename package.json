@@ -44,15 +44,15 @@
     "download",
     "阿里云播放器",
     "下载",
-    "云点波"
+    "云点播"
   ],
-  "repository": "https://github.com/JeversonJee/react-native-wmm-aliyunplayer",
-  "author": "yikang.ji <jeverson@163.com> (https://github.com/JeversonJee)",
+  "repository": "https://github.com/SSzzPP/svipwrap-react-native-wmm-aliyunplayer",
+  "author": "SSzzPP <chatgptfuture@outlook.com> (https://github.com/SSzzPP)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JeversonJee/react-native-wmm-aliyunplayer/issues"
+    "url": "https://github.com/SSzzPP/svipwrap-react-native-wmm-aliyunplayer/issues"
   },
-  "homepage": "https://github.com/JeversonJee/react-native-wmm-aliyunplayer#readme",
+  "homepage": "https://github.com/SSzzPP/svipwrap-react-native-wmm-aliyunplayer#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
@@ -89,7 +89,7 @@
   "engines": {
     "node": ">= 14.0.0"
   },
-  "packageManager": "^yarn@1.22.15",
+  "packageManager": "yarn@1.22.22",
   "jest": {
     "preset": "react-native",
     "modulePathIgnorePatterns": [

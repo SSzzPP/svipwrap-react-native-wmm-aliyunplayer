@@ -44,6 +44,8 @@ Project build.gradle 添加 meaven 依赖`maven {url 'https://maven.aliyun.com/r
 See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow.
 
 ## Contributor
+
+<a href="https://github.com/SSzzPP"><img src="https://avatars.githubusercontent.com/u/48024268?v=4" width=100 height=100 style="border-radius:50px" /></a>
 <a href="https://github.com/nbhhcty"><img src="https://avatars.githubusercontent.com/u/11188644?v=4" width=100 height=100 style="border-radius:50px" /></a>
 <a href="https://github.com/Feihua-czl"><img src="https://avatars.githubusercontent.com/u/21188352?v=4" width=100 height=100 style="border-radius:50px" /></a>
 <a href="https://github.com/iHZW"><img src="https://avatars.githubusercontent.com/u/13400958?v=4" width=100 height=100 style="border-radius:50px" /></a>
