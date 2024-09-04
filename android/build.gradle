@@ -53,6 +53,7 @@ android {
 }
 
 repositories {
+  maven { url "https://maven.aliyun.com/repository/releases" }
   mavenCentral()
   google()
 }
@@ -64,7 +65,7 @@ dependencies {
   //noinspection GradleDynamicVersion
   implementation "com.facebook.react:react-native"
   implementation 'com.google.code.gson:gson:2.8.0'
-  implementation 'com.aliyun.sdk.android:AliyunPlayer:5.4.2.0-full'
+  implementation 'com.aliyun.sdk.android:AliyunPlayer:5.4.8.0-full'
 
 }
 
