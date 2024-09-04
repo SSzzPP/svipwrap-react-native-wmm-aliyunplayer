@@ -1,6 +1,6 @@
 {
   "name": "@svipwrap/react-native-wmm-aliyunplayer",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "aliyunplayer&&download",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
